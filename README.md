@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kush34
 - 👀 I’m interested in Programming and  any tech related knowledge
 - 🌱 I’m currently learning Web Development
-- 📫 You can reach me at chattkush34@gmail.com or DM me at @chattkush IG.
+- 📫 You can reach me at chattkush34@gmail.com.
 
 <!---
 kush34/kush34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
