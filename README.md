@@ -4,7 +4,7 @@
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Web+Developer" alt="shreyvarshney"/>
   </p>
 </h1>
-<h3 align="center">🚀 Hey, I'm Kush Chatt! I'm a CSE student passionate about full-stack development and AI. I build MERN apps, WebRTC projects, and browser extensions while exploring sorting algorithms and web scraping. Always up for challenges and open-source contributions! 🚀</h3>
+<h3 align="center">🚀 Hey, I'm Kush Chatt! CSE student passionate about full-stack development and AI. I build MERN apps, WebRTC projects, and browser extensions while exploring sorting algorithms and web scraping. Always up for challenges and open-source contributions! 🚀</h3>
 
 - 🌱 I’m currently learning **AI/ML and Backend ...**
 
