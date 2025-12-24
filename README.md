@@ -7,7 +7,7 @@
 
 -  I’m currently learning **AI/ML and Backend ...**
 
--  How to reach me **https://portfolio-kush34s-projects.vercel.app/**
+-  How to reach me **https://chattkush.online/**
 
 ## Connect with me:
 
