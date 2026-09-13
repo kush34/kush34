@@ -28,25 +28,25 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,c,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,python,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
 </p>
 
 ---
@@ -84,19 +84,23 @@ Built during my internship where I owned both frontend and backend development.
 * REST APIs
 * Responsive dashboard
 
-Stack: Next.js • Node.js • MongoDB
+**Stack**
+
+Next.js • Node.js • MongoDB
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kush34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=kush34&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=kush34&theme=tokyo-night&hide_border=true"/>
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api?username=kush34&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=kush34&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -104,7 +108,10 @@ Stack: Next.js • Node.js • MongoDB
 ## Most Used Languages
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush34&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    width="45%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kush34&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -112,7 +119,9 @@ Stack: Next.js • Node.js • MongoDB
 ## LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/kush_34?theme=dark&font=Nunito&ext=contest"/>
+  <img
+    src="https://leetcard.jacoblin.cool/kush_34?theme=dark&font=Nunito&ext=contest"
+  />
 </p>
 
 ---
@@ -120,15 +129,9 @@ Stack: Next.js • Node.js • MongoDB
 ## Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chatt-kush-a85490201/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/kush34">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://chattkush.online">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
-</a>
+  <a href="https://www.linkedin.com/in/chatt-kush-a85490201/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
+
+---
